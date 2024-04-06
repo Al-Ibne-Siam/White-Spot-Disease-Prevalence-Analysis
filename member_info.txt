@@ -1,0 +1,21 @@
+1.	Al Ibne Siam
+	ID: 2012072042
+	email: ibne.siam@northsouth.edu
+	phone: 01990188461
+
+
+2.	Rafeed Mohammad Sultan
+	ID: 2022373642
+	email: rafeed.sultan@northsouth.edu
+	phone: 01732073478
+
+3.	Istiaque Hasan Nihal
+	ID: 2011790042
+	email: istiaque.nihal@northsouth.edu
+	phone: 01303142565
+
+4.	Mohammed Arif Uddin
+	ID: 2012967042
+	email: mohammed.uddin05@northsouth.edu
+	phone: 01910843026
+	
